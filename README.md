@@ -1,1 +1,1 @@
-# SSH-Demo
+# Run Buddy 2.0
